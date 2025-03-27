@@ -21,4 +21,8 @@ Technologies
 * Elasticsearch Queries
 * Kibana for visualization
 
+
+Direct Link To Dashboard URl
+http://localhost:5601/app/r/s/5uTR6
+
 🔗 Sample Dashboard Screenshot
